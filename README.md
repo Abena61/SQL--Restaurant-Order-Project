@@ -33,3 +33,7 @@ This project provides SQL scripts to create and manage a **restaurant order data
 - Lordina Osei  
 - GitHub Profile: Lordina Osei (https://github.com/abena61)
 
+- ## Tags
+#SQL #Database #MySQL #PostgreSQL
+
+
